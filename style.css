@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100&display=swap');
+html{background:rgb(50, 50, 50);}
+h1{color:#87f;background-color:#0ff;text-align:center;font-size:100px;}
+box{width:500px; height:2.0px;
+margin:10px 10px 30px 300px;}
+body{font-family: 'Barlow Condensed',sans-serif}
+nav{background-color: #272a28; padding:15px;}
+nav ul{display:flex; margin:0; padding:0; justify-content:center;list-style-type: none;}
+ul li a {color:#fff;padding:20px;list-style-type: none;list-style: none;font-size:100%;}
+section ul li a {color:#fff;padding: 20px;list-style-type: none;font-size:100%;}
+p{color:#fff;padding:10px;list-style-type: none;text-align:center}
+h2{color:#fff;padding:10px;text-align:center;}
+h4{color:#fff;padding:-3px;text-align:center;}
+ ul li {color:#fff;padding:10px; font-size:130%;}
+.img-div {background-color:#eee;}
+.responsive-img{justify-content:center;max-width:100%;display:block;  margin-left: auto;
+  margin-right: auto;}
+
+a{  text-align:center; display:block;color:#fff;justify-content:center;}
+
+#leftside{text-align:left; display:block;justify-content:left;float:left}
+#rightside{text-align:center; display:block;justify-content:right;float:right}
+#imagesmall{width:500px; height:300px;}
+#imagesmall2{width:500px; height: 500px;}
+#sitesflow{font-size: 110%; }
+#tribute-info{font-size:130%;}
+
+img {
+    max-width: 100%;
+}
